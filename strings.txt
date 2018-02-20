@@ -1,0 +1,69 @@
+PYTHON
+------
+Numbers - int float long double - operators
+Strings - char strings  
+	- indexing 
+	- slicing 
+	- concatenating
+	- operations
+
+string --> character , group of chars -- anything from keyboard 
+type() --> str 
+
+identifier --> small case , no number / symbols 
+syntax -> ' ' , " "
+name = "Python"
+tech = 'Data science'
+para = python is a most popular languafge now a days
+		python is a most popular languafge now a days
+			python is a most popular languafge now a days
+
+multiple new line strings --> '''
+
+special characters: 
+-------------------
+new line  -> /n
+tab space -> /t
+
+XXXX
+name = "Python
+			language "
+XXXX
+
+comments 
+--------
+skip the exec 
+dummy content / guidelines
+#
+
+string literals:
+----------------
+%d - int 
+%s - str
+%f - float
+
+positional
+dynamic rendering 
+print("%s" , %(user))
+
+Raw strings
+-----------
+string = r"   "
+myChannel = "https:\\www.youtube.com/khan/tutorials%search%definitions"
+pathOfFile = "Users\khan\python\newcode\tests"
+
+Indexing: 
+---------
+roll nos of strings 
+tech = "Python"
+P   y  t  h  o  n
+0   1  2  3  4  5
+-6  -5 -4 -3 -2 -1
+
+tech[0]->P
+tech[3]->h
+tech[4]->o
+
+tech[-1]->n
+tech[-4]->t
+tech[-6]->P
