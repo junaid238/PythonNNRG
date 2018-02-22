@@ -47,12 +47,67 @@
 # print(myChannel)
 # print(pathOfFile)
 
-tech = "Python"
+tech = "PythonAndDataSciences"
 
-print(tech[0])
-print(tech[3])
-print(tech[4])
+# print(tech[0])
+# print(tech[3])
+# print(tech[4])
 
-print(tech[-1])
-print(tech[-4])
-print(tech[-6])
+# print(tech[-1])
+# print(tech[-4])
+# print(tech[-6])
+
+# #slicing
+# print(tech[2:4])
+# print(tech[1:5])
+# print(tech[-6:-2])
+# print(tech[-2])
+# print(tech[0:15])
+# print(tech[0:15:2])
+# print(tech[0:15:3])
+# print(tech[::-1])
+# print(tech[18:1:-3])
+# print(tech[1:18:3])
+
+# n = 3
+# m = 10
+# a = "pyt"
+# b = "hon"
+# c = a + b
+# print(n + m)
+# print(a + b)
+# print(n , c )
+# print("%d is  %s" %(m , "ten"))
+
+
+# a = 10 
+# b = 40 
+# print(type(a))
+# print(type(b))
+# c = str(a)
+# print(type(c))
+# print(type(str(b)))
+# print(c)
+# print(c , a)
+
+# num = "13254"
+# print(type(num))
+# strnum = int(num)
+# print(strnum)
+# print(type(strnum))
+
+# char = "z"
+# num = 112
+# asciiofa = ord(char)
+# charofnum = chr(num)
+# print(asciiofa)
+# print(charofnum)
+
+# name = "NNRG "
+# print(name)
+# del name 
+# print(name)
+# print(name*5)
+# tech = "python"
+# print("o" in tech )
+# print("w" in tech )

@@ -67,3 +67,67 @@ tech[4]->o
 tech[-1]->n
 tech[-4]->t
 tech[-6]->P
+
+Slicing 
+-------
+tech = "Python"
+group of chars
+
+
+th   -> 2 3
+ytho -> 1 2 3 4 
+Pyth -> -6 -5 -4 -3 
+
+tech[2:4]
+tech[1:5]
+tech[-6:-2]
+
+Reverse: 
+--------
+step -> third input to strings
+
+Indexing 	--> tech[index]
+Slicing 	--> tech[start: end]
+Step 		--> tech[start: end: step]
+
+tech[0:5:2]
+# PythonAndDataSc
+# P-t-o-A-d-a-a-c
+# P--h--A--D--a--
+
+tech[18:0:-1]
+tech[18:1:-3]
+
+Concat:
+-------
++ , 
+2+3 -> 5 
+"pyt" + "hon" -> "python"
+2 , "three"
+%d %s %(2,"three")
+
+Type casting
+------------
+str   -> int (special case) 
+int   -> str 	str(*number*)
+str   -> float (special case)
+float -> str 
+
+ASCII values 
+
+str -> ascii ===> ord()
+ascii -> str ===> chr()
+
+Operating on strings:
+---------------------
+methods to manipulate strings
+
+name = "NNRG"
+del name 
+
+repetitions ---> * a*3 --> aaa
+in , not in -> T / F 
+char , sub string 
+
+
+
