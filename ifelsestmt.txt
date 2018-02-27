@@ -1,0 +1,65 @@
+Conditional stmts:
+------------------
+descision - T/F - Boolean 
+
+if else    ---> 1 t and 1 f
+if elif else ---> 1 t 2 t 3t ... 1f
+
+condition --> T/F
+expression
+
+if (condition 1):
+	exp 1
+	exp 2
+else:
+	exp 3
+	exp 4
+
+if condition 1:
+	exp 1
+	exp 2
+else:
+	exp 3
+	exp 4
+
+if condition 1:
+	exp 1
+	exp 2
+elif condition 2:
+	exp 3
+	exp 4
+	exp 5
+	exp 6
+elif condition 3:
+	exp 31
+	exp 41
+	exp 12
+	exp 21
+else:
+	exp 33
+	exp 4
+
+pass --> no implementations 
+
+Inputs from keyboard 
+--------------------
+scanner -- java
+scanf   -- C Cpp
+
+2.7 -- input() raw_input()
+3.6 -- input()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

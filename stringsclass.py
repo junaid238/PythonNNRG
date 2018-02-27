@@ -47,7 +47,7 @@
 # print(myChannel)
 # print(pathOfFile)
 
-tech = "PythonAndDataSciences"
+# tech = "PythonAndDataSciences"
 
 # print(tech[0])
 # print(tech[3])
